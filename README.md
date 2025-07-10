@@ -24,6 +24,6 @@ Currently running locally at: `http://127.0.0.1:8000/tools/`
 Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/tool_store.git
+git clone https://github.com/Adeyiwolasuccess/tool_store.git
 cd tool_store
 python manage.py runserver
