@@ -14,7 +14,7 @@ Currently running locally at: `http://127.0.0.1:8000/tools/`
 
 ## ⚙️ Tech Stack
 
-- Python 3.11+
+- Python 3.13
 - Django 5.2+
 - Git & GitHub
 - PyCharm (IDE)
